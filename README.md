@@ -28,7 +28,7 @@
 
 6. Input kode berikut
 
-'''
+```
 #define TRIG_PIN 5   
 #define ECHO_PIN 13  
 #define LED_PIN  2  
@@ -67,7 +67,7 @@ void loop() {
     delay(200);
   }
 }
-'''
+```
 
 7. Maka LED dapat berkedip/blink saat jarak kurang dari 10cm 
 
